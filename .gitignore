@@ -1,0 +1,40 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# --- Virtual environment ---
+venv/
+.env/
+.env.local
+*.env
+
+# --- IDE / Editor files ---
+.idea/
+.vscode/
+*.iml
+
+# --- Exported data ---
+export/
+*.json
+*.jsonl
+*.csv
+*.log
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+
+# --- Byte-compiled cache ---
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# --- Docker ---
+*.pid
+*.sock
+logs/
