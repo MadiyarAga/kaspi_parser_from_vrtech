@@ -1,0 +1,107 @@
+[
+  {
+    "time": "2025-10-07T16:39:24.118473",
+    "action": "extract_product_id",
+    "status": "success",
+    "info": {
+      "url": "https://kaspi.kz/shop/p/naushniki-apple-airpods-4-belyi-124333372/?c=750000000",
+      "product_id": "124333372"
+    }
+  },
+  {
+    "time": "2025-10-07T16:39:25.272362",
+    "action": "fetch_offers",
+    "status": "success",
+    "info": {
+      "offers_count": 73
+    }
+  },
+  {
+    "time": "2025-10-07T16:39:25.291374",
+    "action": "export_json",
+    "status": "success",
+    "info": {
+      "product": "Наушники Apple AirPods 4 белый",
+      "offers_count": 73
+    }
+  },
+  {
+    "time": "2025-10-07T16:39:25.440503",
+    "action": "save_db",
+    "status": "success",
+    "info": {
+      "product_db_id": 1,
+      "offers_count": 73
+    }
+  },
+  {
+    "time": "2025-10-07T16:49:05.222067",
+    "action": "extract_product_id",
+    "status": "success",
+    "info": {
+      "url": "https://kaspi.kz/shop/p/naushniki-apple-airpods-4-belyi-124333372/?c=750000000",
+      "product_id": "124333372"
+    }
+  },
+  {
+    "time": "2025-10-07T16:49:06.389232",
+    "action": "fetch_offers",
+    "status": "success",
+    "info": {
+      "offers_count": 73
+    }
+  },
+  {
+    "time": "2025-10-07T16:49:06.417209",
+    "action": "export_json",
+    "status": "success",
+    "info": {
+      "product": "Наушники Вставные AirPods 4 MXP63ZE/A",
+      "offers_count": 73
+    }
+  },
+  {
+    "time": "2025-10-07T16:49:06.589707",
+    "action": "save_db",
+    "status": "success",
+    "info": {
+      "product_db_id": 2,
+      "offers_count": 73
+    }
+  },
+  {
+    "time": "2025-10-07T16:51:28.232415",
+    "action": "extract_product_id",
+    "status": "success",
+    "info": {
+      "url": "https://kaspi.kz/shop/p/naushniki-apple-airpods-4-belyi-124333372/?c=750000000",
+      "product_id": "124333372"
+    }
+  },
+  {
+    "time": "2025-10-07T16:51:29.369334",
+    "action": "fetch_offers",
+    "status": "success",
+    "info": {
+      "offers_count": 73
+    }
+  },
+  {
+    "time": "2025-10-07T16:51:29.403279",
+    "action": "export_json",
+    "status": "success",
+    "info": {
+      "product": "Наушники Вставные AirPods 4 MXP63ZE/A",
+      "offers_count": 73
+    }
+  },
+  {
+    "time": "2025-10-07T16:51:29.559014",
+    "action": "save_db",
+    "status": "success",
+    "info": {
+      "product_db_id": 2,
+      "offers_count": 73
+    }
+  }
+]

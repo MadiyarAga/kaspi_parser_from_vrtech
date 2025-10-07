@@ -1,70 +1,73 @@
-{"merchant_name": "Lux", "price": 119000.0, "merchant_rating": 4.9, "merchant_reviews": 11, "kaspi_delivery": true}
-{"merchant_name": "GPTshop", "price": 115419.0, "merchant_rating": 4.9, "merchant_reviews": 64, "kaspi_delivery": true}
+{"merchant_name": "GPTshop", "price": 200044.0, "merchant_rating": 4.9, "merchant_reviews": 64, "kaspi_delivery": true}
+{"merchant_name": "Lux", "price": 119000.0, "merchant_rating": 5.0, "merchant_reviews": 11, "kaspi_delivery": true}
 {"merchant_name": "АФИДАЛЬ", "price": 115000.0, "merchant_rating": 5.0, "merchant_reviews": 6, "kaspi_delivery": false}
 {"merchant_name": "ABS СЕРВИС", "price": 105000.0, "merchant_rating": 5.0, "merchant_reviews": 57, "kaspi_delivery": true}
 {"merchant_name": "TechPlaza", "price": 104810.0, "merchant_rating": 4.9, "merchant_reviews": 15, "kaspi_delivery": false}
-{"merchant_name": "FORA", "price": 103494.0, "merchant_rating": 4.8, "merchant_reviews": 189, "kaspi_delivery": true}
-{"merchant_name": "_ ALGA _", "price": 103494.0, "merchant_rating": 4.8, "merchant_reviews": 363, "kaspi_delivery": true}
-{"merchant_name": "EAST BREEZE", "price": 100992.0, "merchant_rating": 4.6, "merchant_reviews": 160, "kaspi_delivery": false}
-{"merchant_name": "Smart-Technology", "price": 100992.0, "merchant_rating": 4.7, "merchant_reviews": 222, "kaspi_delivery": false}
-{"merchant_name": "Казахтелеком Магазин", "price": 100984.0, "merchant_rating": 4.7, "merchant_reviews": 91, "kaspi_delivery": true}
-{"merchant_name": " Tech Mobile ", "price": 100983.0, "merchant_rating": 4.8, "merchant_reviews": 84, "kaspi_delivery": false}
-{"merchant_name": "Erke Company", "price": 99999.0, "merchant_rating": 4.9, "merchant_reviews": 12, "kaspi_delivery": true}
+{"merchant_name": "FORA", "price": 102873.0, "merchant_rating": 4.8, "merchant_reviews": 194, "kaspi_delivery": true}
+{"merchant_name": "_ ALGA _", "price": 102873.0, "merchant_rating": 4.8, "merchant_reviews": 359, "kaspi_delivery": true}
+{"merchant_name": "Казахтелеком Магазин", "price": 100984.0, "merchant_rating": 4.7, "merchant_reviews": 92, "kaspi_delivery": true}
+{"merchant_name": "EAST BREEZE", "price": 100578.0, "merchant_rating": 4.6, "merchant_reviews": 156, "kaspi_delivery": false}
+{"merchant_name": "Smart-Technology", "price": 100578.0, "merchant_rating": 4.7, "merchant_reviews": 220, "kaspi_delivery": false}
+{"merchant_name": " Tech Mobile ", "price": 100577.0, "merchant_rating": 4.8, "merchant_reviews": 83, "kaspi_delivery": false}
+{"merchant_name": "Erke Company", "price": 99999.0, "merchant_rating": 4.9, "merchant_reviews": 11, "kaspi_delivery": true}
 {"merchant_name": "GreenPrice", "price": 98263.0, "merchant_rating": 4.8, "merchant_reviews": 276, "kaspi_delivery": false}
-{"merchant_name": "Soft Master", "price": 96900.0, "merchant_rating": 4.8, "merchant_reviews": 726, "kaspi_delivery": false}
+{"merchant_name": "Soft Master", "price": 96900.0, "merchant_rating": 4.8, "merchant_reviews": 720, "kaspi_delivery": false}
 {"merchant_name": "Big Shop-kz", "price": 95000.0, "merchant_rating": 4.7, "merchant_reviews": 56, "kaspi_delivery": false}
-{"merchant_name": "TECHNODOM", "price": 94990.0, "merchant_rating": 4.9, "merchant_reviews": 20035, "kaspi_delivery": false}
-{"merchant_name": "Mechta.kz", "price": 94990.0, "merchant_rating": 4.9, "merchant_reviews": 23900, "kaspi_delivery": false}
-{"merchant_name": "ALSER", "price": 94990.0, "merchant_rating": 4.9, "merchant_reviews": 3933, "kaspi_delivery": false}
-{"merchant_name": "Sulpak", "price": 94990.0, "merchant_rating": 4.9, "merchant_reviews": 39916, "kaspi_delivery": false}
-{"merchant_name": "EVRIKA", "price": 94990.0, "merchant_rating": 4.9, "merchant_reviews": 3775, "kaspi_delivery": true}
-{"merchant_name": "PowerPlus", "price": 94990.0, "merchant_rating": 4.8, "merchant_reviews": 2951, "kaspi_delivery": false}
-{"merchant_name": "SuperPrice", "price": 94990.0, "merchant_rating": 4.9, "merchant_reviews": 31803, "kaspi_delivery": false}
+{"merchant_name": "TECHNODOM", "price": 94990.0, "merchant_rating": 4.9, "merchant_reviews": 19935, "kaspi_delivery": false}
+{"merchant_name": "Mechta.kz", "price": 94990.0, "merchant_rating": 4.9, "merchant_reviews": 23928, "kaspi_delivery": false}
+{"merchant_name": "ALSER", "price": 94990.0, "merchant_rating": 4.9, "merchant_reviews": 3949, "kaspi_delivery": false}
+{"merchant_name": "Sulpak", "price": 94990.0, "merchant_rating": 4.9, "merchant_reviews": 39645, "kaspi_delivery": false}
+{"merchant_name": "EVRIKA", "price": 94990.0, "merchant_rating": 4.9, "merchant_reviews": 3791, "kaspi_delivery": true}
+{"merchant_name": "PowerPlus", "price": 94990.0, "merchant_rating": 4.8, "merchant_reviews": 2931, "kaspi_delivery": false}
+{"merchant_name": "SuperPrice", "price": 94990.0, "merchant_rating": 4.9, "merchant_reviews": 31663, "kaspi_delivery": false}
 {"merchant_name": "iSpace Apple Premium Partner", "price": 94990.0, "merchant_rating": 4.8, "merchant_reviews": 170, "kaspi_delivery": false}
 {"merchant_name": "KBT Bars", "price": 94990.0, "merchant_rating": 4.8, "merchant_reviews": 59, "kaspi_delivery": false}
-{"merchant_name": "Sali Tel", "price": 94900.0, "merchant_rating": 4.4, "merchant_reviews": 25, "kaspi_delivery": true}
-{"merchant_name": "Altel Tele2", "price": 94890.0, "merchant_rating": 4.8, "merchant_reviews": 163, "kaspi_delivery": false}
-{"merchant_name": "ABC Retail", "price": 93917.0, "merchant_rating": 4.9, "merchant_reviews": 620, "kaspi_delivery": true}
-{"merchant_name": "Hit Price", "price": 93190.0, "merchant_rating": 4.9, "merchant_reviews": 4614, "kaspi_delivery": true}
+{"merchant_name": "Sali Tel", "price": 94900.0, "merchant_rating": 4.5, "merchant_reviews": 26, "kaspi_delivery": true}
+{"merchant_name": "Altel Tele2", "price": 94890.0, "merchant_rating": 4.8, "merchant_reviews": 162, "kaspi_delivery": false}
+{"merchant_name": "ABC Retail", "price": 93917.0, "merchant_rating": 4.9, "merchant_reviews": 616, "kaspi_delivery": true}
+{"merchant_name": "Hit Price", "price": 93190.0, "merchant_rating": 4.9, "merchant_reviews": 4649, "kaspi_delivery": true}
 {"merchant_name": "G STORE KZ", "price": 93000.0, "merchant_rating": 5.0, "merchant_reviews": 4, "kaspi_delivery": false}
 {"merchant_name": "Atakent", "price": 89990.0, "merchant_rating": 4.8, "merchant_reviews": 32, "kaspi_delivery": false}
 {"merchant_name": "Rs Shop", "price": 88900.0, "merchant_rating": 4.9, "merchant_reviews": 6, "kaspi_delivery": true}
-{"merchant_name": "eAstana", "price": 88000.0, "merchant_rating": 5.0, "merchant_reviews": 118, "kaspi_delivery": false}
+{"merchant_name": "eAstana", "price": 88000.0, "merchant_rating": 5.0, "merchant_reviews": 121, "kaspi_delivery": false}
 {"merchant_name": "ZiMarket", "price": 88000.0, "merchant_rating": 5.0, "merchant_reviews": 13, "kaspi_delivery": true}
-{"merchant_name": "Mobile_Shop", "price": 87990.0, "merchant_rating": 4.9, "merchant_reviews": 145, "kaspi_delivery": false}
+{"merchant_name": "Mobile_Shop", "price": 87990.0, "merchant_rating": 4.9, "merchant_reviews": 147, "kaspi_delivery": false}
 {"merchant_name": "MarTel", "price": 85980.0, "merchant_rating": 4.5, "merchant_reviews": 21, "kaspi_delivery": true}
-{"merchant_name": "Techplace", "price": 85000.0, "merchant_rating": 4.8, "merchant_reviews": 58, "kaspi_delivery": false}
-{"merchant_name": "N U R", "price": 85000.0, "merchant_rating": 5.0, "merchant_reviews": 109, "kaspi_delivery": true}
-{"merchant_name": "Protel.kz", "price": 85000.0, "merchant_rating": 4.8, "merchant_reviews": 105, "kaspi_delivery": false}
-{"merchant_name": "Tehno Trade", "price": 84930.0, "merchant_rating": 4.9, "merchant_reviews": 260, "kaspi_delivery": true}
+{"merchant_name": "Techplace", "price": 85000.0, "merchant_rating": 4.8, "merchant_reviews": 60, "kaspi_delivery": false}
+{"merchant_name": "N U R", "price": 85000.0, "merchant_rating": 5.0, "merchant_reviews": 108, "kaspi_delivery": true}
+{"merchant_name": "Protel.kz", "price": 85000.0, "merchant_rating": 4.8, "merchant_reviews": 106, "kaspi_delivery": false}
 {"merchant_name": "Gadget.kz", "price": 83990.0, "merchant_rating": 5.0, "merchant_reviews": 10, "kaspi_delivery": true}
 {"merchant_name": "Lynx", "price": 82890.0, "merchant_rating": 4.8, "merchant_reviews": 37, "kaspi_delivery": false}
-{"merchant_name": "Favorite", "price": 80000.0, "merchant_rating": 4.9, "merchant_reviews": 48, "kaspi_delivery": true}
+{"merchant_name": "Favorite", "price": 80000.0, "merchant_rating": 4.9, "merchant_reviews": 49, "kaspi_delivery": true}
+{"merchant_name": "Artis Optima", "price": 79900.0, "merchant_rating": 4.9, "merchant_reviews": 38, "kaspi_delivery": true}
+{"merchant_name": "ALPHA", "price": 79900.0, "merchant_rating": 4.8, "merchant_reviews": 46, "kaspi_delivery": true}
+{"merchant_name": "FORTUNA", "price": 79900.0, "merchant_rating": 4.9, "merchant_reviews": 92, "kaspi_delivery": true}
+{"merchant_name": "Sirius", "price": 79900.0, "merchant_rating": 4.9, "merchant_reviews": 155, "kaspi_delivery": true}
 {"merchant_name": "ТехноPark", "price": 79890.0, "merchant_rating": 4.9, "merchant_reviews": 29, "kaspi_delivery": false}
 {"merchant_name": "topPhone", "price": 79200.0, "merchant_rating": 4.8, "merchant_reviews": 43, "kaspi_delivery": true}
-{"merchant_name": "Мобитайм", "price": 79026.0, "merchant_rating": 4.8, "merchant_reviews": 161, "kaspi_delivery": false}
-{"merchant_name": "ITOPKZ", "price": 79025.0, "merchant_rating": 5.0, "merchant_reviews": 237, "kaspi_delivery": false}
+{"merchant_name": "Мобитайм", "price": 79177.0, "merchant_rating": 4.8, "merchant_reviews": 163, "kaspi_delivery": false}
+{"merchant_name": "ITOPKZ", "price": 79176.0, "merchant_rating": 5.0, "merchant_reviews": 237, "kaspi_delivery": false}
 {"merchant_name": "Tehnika alemy ", "price": 78000.0, "merchant_rating": 0.0, "merchant_reviews": 1, "kaspi_delivery": false}
-{"merchant_name": "APG техникс", "price": 75011.0, "merchant_rating": 4.8, "merchant_reviews": 1449, "kaspi_delivery": false}
+{"merchant_name": "Tehno Trade", "price": 75905.0, "merchant_rating": 4.9, "merchant_reviews": 258, "kaspi_delivery": true}
+{"merchant_name": "AISELL", "price": 75900.0, "merchant_rating": 5.0, "merchant_reviews": 32, "kaspi_delivery": true}
+{"merchant_name": "APG техникс", "price": 75041.0, "merchant_rating": 4.8, "merchant_reviews": 1447, "kaspi_delivery": false}
 {"merchant_name": "ТехноГород", "price": 75000.0, "merchant_rating": 4.9, "merchant_reviews": 69, "kaspi_delivery": true}
-{"merchant_name": "ЦифроПлаза", "price": 75000.0, "merchant_rating": 5.0, "merchant_reviews": 45, "kaspi_delivery": true}
-{"merchant_name": "SHYGYS-tech", "price": 75000.0, "merchant_rating": 4.9, "merchant_reviews": 58, "kaspi_delivery": false}
-{"merchant_name": "ASR Market", "price": 75000.0, "merchant_rating": 4.9, "merchant_reviews": 104, "kaspi_delivery": true}
-{"merchant_name": "SMART TRADE", "price": 74990.0, "merchant_rating": 4.9, "merchant_reviews": 217, "kaspi_delivery": true}
-{"merchant_name": "NovKaz", "price": 74930.0, "merchant_rating": 4.9, "merchant_reviews": 102, "kaspi_delivery": true}
+{"merchant_name": "ЦифроПлаза", "price": 75000.0, "merchant_rating": 5.0, "merchant_reviews": 44, "kaspi_delivery": true}
+{"merchant_name": "ELITE MOBILE", "price": 75000.0, "merchant_rating": 4.9, "merchant_reviews": 61, "kaspi_delivery": false}
+{"merchant_name": "ASR Market", "price": 75000.0, "merchant_rating": 4.9, "merchant_reviews": 109, "kaspi_delivery": true}
+{"merchant_name": "SMART TRADE", "price": 74990.0, "merchant_rating": 4.9, "merchant_reviews": 216, "kaspi_delivery": true}
 {"merchant_name": "BIG SHOP KZ", "price": 74900.0, "merchant_rating": 4.9, "merchant_reviews": 71, "kaspi_delivery": false}
-{"merchant_name": "GadgetON", "price": 74899.0, "merchant_rating": 4.9, "merchant_reviews": 189, "kaspi_delivery": false}
-{"merchant_name": "MyGadget", "price": 73999.0, "merchant_rating": 4.7, "merchant_reviews": 123, "kaspi_delivery": true}
-{"merchant_name": "MARDI", "price": 73000.0, "merchant_rating": 5.0, "merchant_reviews": 211, "kaspi_delivery": false}
-{"merchant_name": "SMART TIME-KZ", "price": 72970.0, "merchant_rating": 4.9, "merchant_reviews": 135, "kaspi_delivery": true}
-{"merchant_name": "NT-Store", "price": 72958.0, "merchant_rating": 4.8, "merchant_reviews": 165, "kaspi_delivery": false}
-{"merchant_name": "i_Point", "price": 72782.0, "merchant_rating": 4.9, "merchant_reviews": 104, "kaspi_delivery": false}
-{"merchant_name": "i-Store.", "price": 72782.0, "merchant_rating": 4.8, "merchant_reviews": 225, "kaspi_delivery": false}
-{"merchant_name": "ALMА", "price": 72781.0, "merchant_rating": 4.9, "merchant_reviews": 344, "kaspi_delivery": true}
-{"merchant_name": "SATEL", "price": 72000.0, "merchant_rating": 4.9, "merchant_reviews": 1115, "kaspi_delivery": true}
-{"merchant_name": "TopDevice", "price": 72000.0, "merchant_rating": 4.9, "merchant_reviews": 129, "kaspi_delivery": false}
-{"merchant_name": "FORTUNA", "price": 71220.0, "merchant_rating": 4.9, "merchant_reviews": 92, "kaspi_delivery": true}
-{"merchant_name": "Artis Optima", "price": 71218.0, "merchant_rating": 4.9, "merchant_reviews": 38, "kaspi_delivery": true}
-{"merchant_name": "Sirius", "price": 71214.0, "merchant_rating": 4.9, "merchant_reviews": 157, "kaspi_delivery": true}
-{"merchant_name": "ALPHA", "price": 71212.0, "merchant_rating": 4.8, "merchant_reviews": 45, "kaspi_delivery": true}
-{"merchant_name": "Tech.kz", "price": 71211.0, "merchant_rating": 4.9, "merchant_reviews": 154, "kaspi_delivery": true}
+{"merchant_name": "GadgetON", "price": 74899.0, "merchant_rating": 4.9, "merchant_reviews": 192, "kaspi_delivery": false}
+{"merchant_name": "MyGadget", "price": 73999.0, "merchant_rating": 4.7, "merchant_reviews": 126, "kaspi_delivery": true}
+{"merchant_name": "MARDI", "price": 73000.0, "merchant_rating": 5.0, "merchant_reviews": 215, "kaspi_delivery": false}
+{"merchant_name": "SMART TIME-KZ", "price": 72970.0, "merchant_rating": 4.9, "merchant_reviews": 137, "kaspi_delivery": true}
+{"merchant_name": "NT-Store", "price": 72958.0, "merchant_rating": 4.8, "merchant_reviews": 163, "kaspi_delivery": false}
+{"merchant_name": "i_Point", "price": 72721.0, "merchant_rating": 4.9, "merchant_reviews": 102, "kaspi_delivery": false}
+{"merchant_name": "i-Store.", "price": 72721.0, "merchant_rating": 4.8, "merchant_reviews": 226, "kaspi_delivery": false}
+{"merchant_name": "TopDevice", "price": 72000.0, "merchant_rating": 4.9, "merchant_reviews": 133, "kaspi_delivery": false}
+{"merchant_name": "ALMА", "price": 71999.0, "merchant_rating": 4.9, "merchant_reviews": 346, "kaspi_delivery": true}
+{"merchant_name": "ITELL-KZ", "price": 71500.0, "merchant_rating": 4.8, "merchant_reviews": 653, "kaspi_delivery": false}
+{"merchant_name": "Tech.kz", "price": 71499.0, "merchant_rating": 4.9, "merchant_reviews": 160, "kaspi_delivery": true}
+{"merchant_name": "SATEL", "price": 71000.0, "merchant_rating": 4.9, "merchant_reviews": 1116, "kaspi_delivery": true}
+{"merchant_name": "Zehome ", "price": 71000.0, "merchant_rating": 4.5, "merchant_reviews": 84, "kaspi_delivery": false}
+{"merchant_name": "ProUnit", "price": 71000.0, "merchant_rating": 5.0, "merchant_reviews": 68, "kaspi_delivery": false}
