@@ -8,21 +8,28 @@
 - Поддерживается seed-файл seed.json с ID товаров для парсинга.
 - Логирует действия в формате JSON.  
 
+
 ## Установка и запуск
 ### 1. Клонирование репозитория  
 git clone https://github.com/MadiyarAga/kaspi_parser_from_vrtech.git
+
 cd kaspi_parser_from_vrtech
+
 
 ### 2. Установка зависимостей  
 pip install -r req.txt
 
 ### 3. Настройка окружения
-Создайте файл `.env` и укажите:
+#### Создайте файл `.env` и укажите:
 
 DB_HOST=localhost
+
 DB_PORT=5432
+
 DB_NAME=kaspi_parser
+
 DB_USER=postgres
+
 DB_PASSWORD=12345
 
 ### 4. Запуск парсера  
