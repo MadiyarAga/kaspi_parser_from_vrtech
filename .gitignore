@@ -17,13 +17,6 @@ venv/
 .vscode/
 *.iml
 
-# --- Exported data ---
-export/
-*.json
-*.jsonl
-*.csv
-*.log
-
 # --- OS junk ---
 .DS_Store
 Thumbs.db
