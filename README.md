@@ -18,6 +18,7 @@ pip install -r req.txt
 
 ### 3. Настройка окружения
 Создайте файл `.env` и укажите:
+
 DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=kaspi_parser
